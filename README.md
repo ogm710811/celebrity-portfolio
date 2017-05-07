@@ -1,5 +1,5 @@
 # My Celebrity Portfolio
-Basic Web App using Express and Moongoose with all basic CRUD actions that will allow the
+Basic Web App using Express and Mongoose with all basic CRUD actions that will allow the
 user to create their own celebrities portfolio.
 The user is able to:
 1. See the list of celebrities.
